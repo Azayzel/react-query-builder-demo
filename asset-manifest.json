@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-query-builder-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-query-builder-demo/static/js/main.2ce955c8.chunk.js",
+    "main.js.map": "/react-query-builder-demo/static/js/main.2ce955c8.chunk.js.map",
+    "runtime-main.js": "/react-query-builder-demo/static/js/runtime-main.63dca0a1.js",
+    "runtime-main.js.map": "/react-query-builder-demo/static/js/runtime-main.63dca0a1.js.map",
+    "static/css/2.6ac9ffe8.chunk.css": "/react-query-builder-demo/static/css/2.6ac9ffe8.chunk.css",
+    "static/js/2.3ec8f41e.chunk.js": "/react-query-builder-demo/static/js/2.3ec8f41e.chunk.js",
+    "static/js/2.3ec8f41e.chunk.js.map": "/react-query-builder-demo/static/js/2.3ec8f41e.chunk.js.map",
+    "index.html": "/react-query-builder-demo/index.html",
+    "precache-manifest.695e615bb16bcff49577a66b604d6ab0.js": "/react-query-builder-demo/precache-manifest.695e615bb16bcff49577a66b604d6ab0.js",
+    "service-worker.js": "/react-query-builder-demo/service-worker.js",
+    "static/css/2.6ac9ffe8.chunk.css.map": "/react-query-builder-demo/static/css/2.6ac9ffe8.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/react-query-builder-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3ec8f41e.chunk.js.LICENSE": "/react-query-builder-demo/static/js/2.3ec8f41e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react-query-builder-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63dca0a1.js",
+    "static/css/2.6ac9ffe8.chunk.css",
+    "static/js/2.3ec8f41e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2ce955c8.chunk.js"
+  ]
+}
